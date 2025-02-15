@@ -72,7 +72,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=nimbXnumb&theme=apprentice&show_icons=true&hide_border=true&include_all_commits=false&count_private=false)
 
 <!-- ![bw](https://media1.tenor.com/m/aqQgUiMwt3gAAAAd/anime-monochrome.gif) -->
-<img width=900 height=250 src="https://media1.tenor.com/m/aqQgUiMwt3gAAAAd/anime-monochrome.gif
+<img width=800 height=250 src="https://media1.tenor.com/m/aqQgUiMwt3gAAAAd/anime-monochrome.gif
 "/>
 ![bw](https://media1.tenor.com/m/L6uoSdTg-fUAAAAd/rainy-boots-inabakumori.gif)
 ![bw](https://media1.tenor.com/m/G9ch-wIWOskAAAAd/osage-osage-chan.gif)
