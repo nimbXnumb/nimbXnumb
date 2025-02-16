@@ -1,17 +1,17 @@
 <h1 align="center">Hello There! 👋</h1>
 
 <p align="center">
-  <b>Backend Developer | Learning Golang & Automation</b>
+  <b>Backend Developer | Learning Go & Automation</b>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎯 **Backend-разработчик**, увлеченный **Golang**, автоматизацией и тестированием API
-- ⚡ Постоянно изучаю **микросервисы, DevOps, API-тестирование** и новые технологии
-- 🚀 Люблю оптимизировать процессы и разрабатывать полезные сервисы
-- 🛠 Всегда открыт для новых знаний и интересных проектов
+- 🎯 **Backend developer** passionate about **Golang**, automation, and API testing
+- ⚡ Continuously learning **microservices, DevOps, API testing**, and new technologies
+- 🚀 Love optimizing processes and building useful services
+- 🛠 Always open to new knowledge and exciting projects
 
 ---
 
@@ -67,8 +67,6 @@
 ---
 
 🎯 _"Never trust a computer you can’t throw out a window."_ – Steve Wozniak
-
-
 
 <!-- ![](https://media1.tenor.com/m/aqQgUiMwt3gAAAAd/anime-monochrome.gif)
 ![](https://media1.tenor.com/m/L6uoSdTg-fUAAAAd/rainy-boots-inabakumori.gif)
