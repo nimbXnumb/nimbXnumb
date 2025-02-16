@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎯 **Backend developer** passionate about **Golang**, automation, and API testing
+- 🎯 **Backend developer** passionate about **Go**, automation, and API testing
 - ⚡ Continuously learning **microservices, DevOps, API testing**, and new technologies
 - 🚀 Love optimizing processes and building useful services
 - 🛠 Always open to new knowledge and exciting projects
@@ -23,30 +23,34 @@
 
 ## 🛠 Tech Stack
 
-### 🔹 Languages  
+### 🔹 Languages
+
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
 
-### 🔹 Frameworks & Libraries  
+### 🔹 Frameworks & Libraries
+
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](#)
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)](#)
 [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23d71f00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](#)
 
-### 🔹 Databases  
+### 🔹 Databases
+
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 
-### 🔹 Tools & Platforms  
+### 🔹 Tools & Platforms
+
 [![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)](#)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](#)
 
-### 🔹 IDEs  
+### 🔹 IDEs
+
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)](#)
 [![GoLand](https://img.shields.io/badge/GoLand-%23000000.svg?style=for-the-badge&logo=goland&logoColor=white)](#)
-
 
 ---
 
