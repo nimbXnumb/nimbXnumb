@@ -1,9 +1,3 @@
-### About Me
-
-- Backend developer specializing in Go, automation, and databases, also learning microservices, DevOps, API testing.
-
----
-
 ![](https://media1.tenor.com/m/aqQgUiMwt3gAAAAC/anime-monochrome.gif)
 
 ![](https://media1.tenor.com/m/G9ch-wIWOskAAAAC/osage-osage-chan.gif)
